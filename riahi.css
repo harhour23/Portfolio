@@ -164,7 +164,9 @@ p {
 
 .arriere {
     background-color: #9acaf72a;
+    margin: 0 auto;
 }
+
 .slick-prev:before, .slick-next:before {
     color: #068BBF!important;
 }
@@ -382,6 +384,11 @@ footer {
     }
     .badge {
         font-size: .7em;
+    }
+    .arriere {
+        background-color: #9acaf72a;
+        margin: 0 auto;
+        padding: 15px;
     }
     
 }
